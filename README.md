@@ -1,2 +1,3 @@
-# JobFinder
-JobFinder tool created via selenium and webbrowser for webscraping purposes for job searches on Helloworld.rs for Python openings.
+# Python JobFinder
+JobFinder tool created via selenium and webbrowser for webscraping purposes in terms of Python Job Search via Helloworld.rs
+
